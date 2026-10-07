@@ -568,9 +568,20 @@
         "icon": "muamalat/icon.png",
         "dark": "",
         "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "source_url": "https://www.i-muamalat.com.my/rib/image/navbar_logo.png",
+        "source_kind": "supplied-by-owner",
+        "retrieved_at": "2026-10-07T08:15:35.190Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "48ca773333e16c2b66e8adfebd6804622f03ba6c022879ba3f4da1d848a00e7d",
+        "original_format": "webp",
+        "source_note": "Supplied by CGM before the address list, as the light-ground version. Checked 2026-10-07 against source 0: the same dome and the same 'Bank Muamalat' lettering, there in white on a dark header. CGM states it came from the bank's own site.",
+        "icon_crop": [
+          0,
+          0,
+          1,
+          0.7
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
