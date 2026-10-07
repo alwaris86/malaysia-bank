@@ -74,9 +74,10 @@
         "icon_crop": [
           0,
           0,
-          0.28,
-          0.85
+          0.388,
+          0.76
         ],
+        "icon_optical": true,
         "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
@@ -152,13 +153,16 @@
         "master": "",
         "source_url": "https://www.ambank.com.my/images/ambankretaillibraries/logo/ambank.png",
         "source_kind": "downloaded",
-        "retrieved_at": "2026-10-07T08:26:23.968Z",
+        "retrieved_at": "2026-10-07T08:42:26.779Z",
         "retrieved_on": "2026-10-07",
         "original_sha256": "cc4ade63af11bcd5f86d074fabac02848ca1fb90d5cea06ff6add06bdd9630f7",
         "original_format": "png",
-        "icon_source_url": "https://www.ambank.com.my/assets/images/logo/main.svg",
-        "icon_source_kind": "downloaded",
-        "icon_original_sha256": "05ab459f059cb82862dfe46f56d874e08bb1f67f56a1ff896cd26863e99423a1",
+        "icon_crop": [
+          0,
+          0,
+          0.21,
+          1
+        ],
         "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
@@ -280,10 +284,10 @@
         "original_sha256": "7f4185270c99709fa24811933a9440bd5c41cdc90bcc969bb7beafc5f1816445",
         "original_format": "png",
         "crop": [
-          0.39,
-          0.18,
-          0.63,
-          0.86
+          0.416,
+          0.222,
+          0.604,
+          0.574
         ],
         "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
@@ -492,10 +496,10 @@
         "original_sha256": "083a51fe683b4312da033d197568fa5138273218916c6452e4acc1b8e34f511d",
         "original_format": "png",
         "icon_crop": [
-          0.76,
+          0.765,
           0,
           1,
-          0.9
+          0.85
         ],
         "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
@@ -718,9 +722,10 @@
         "icon_crop": [
           0,
           0,
-          0.235,
+          0.22,
           1
         ],
+        "icon_centered": true,
         "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
