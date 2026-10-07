@@ -152,16 +152,13 @@
         "master": "",
         "source_url": "https://www.ambank.com.my/images/ambankretaillibraries/logo/ambank.png",
         "source_kind": "downloaded",
-        "retrieved_at": "2026-10-07T08:02:24.909Z",
+        "retrieved_at": "2026-10-07T08:26:23.968Z",
         "retrieved_on": "2026-10-07",
         "original_sha256": "cc4ade63af11bcd5f86d074fabac02848ca1fb90d5cea06ff6add06bdd9630f7",
         "original_format": "png",
-        "icon_crop": [
-          0,
-          0,
-          0.21,
-          1
-        ],
+        "icon_source_url": "https://www.ambank.com.my/assets/images/logo/main.svg",
+        "icon_source_kind": "downloaded",
+        "icon_original_sha256": "05ab459f059cb82862dfe46f56d874e08bb1f67f56a1ff896cd26863e99423a1",
         "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
@@ -282,6 +279,12 @@
         "retrieved_on": "2026-10-07",
         "original_sha256": "7f4185270c99709fa24811933a9440bd5c41cdc90bcc969bb7beafc5f1816445",
         "original_format": "png",
+        "crop": [
+          0.39,
+          0.18,
+          0.63,
+          0.86
+        ],
         "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
@@ -528,16 +531,13 @@
         "master": "maybank/master.svg",
         "source_url": "https://www.maybank.com/iwov-resources/images/icons/maybank_logo.svg",
         "source_kind": "downloaded",
-        "retrieved_at": "2026-10-07T08:02:25.830Z",
+        "retrieved_at": "2026-10-07T08:26:25.749Z",
         "retrieved_on": "2026-10-07",
         "original_sha256": "4090f1abff728f231e3937133a20d5ab4490a4fa38c68b677c4f4c910480a334",
         "original_format": "svg",
-        "icon_crop": [
-          0,
-          0,
-          0.21,
-          1
-        ],
+        "icon_source_url": "https://www.maybank.com/iwov-resources/images/icons/maybank_logo.svg",
+        "icon_source_kind": "supplied-by-owner",
+        "icon_original_sha256": "e93d89e69ea513caf49f450e2bc5ea3f5e342dad6fd355286d541bf7f0338588",
         "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
@@ -709,10 +709,16 @@
         "retrieved_on": "2026-10-07",
         "original_sha256": "a68007ee0df60b17cf15a5d26138854bfc90dd61ec5b535595d31a78483c3165",
         "original_format": "png",
+        "crop": [
+          0,
+          0,
+          1,
+          0.7
+        ],
         "icon_crop": [
           0,
           0,
-          0.24,
+          0.235,
           1
         ],
         "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
