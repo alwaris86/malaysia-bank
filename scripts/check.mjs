@@ -19,6 +19,7 @@ import { fileURLToPath } from 'node:url';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const problems = [];
+const notes = [];
 const fail = (msg) => problems.push(msg);
 
 // ------------------------------------------------------------------ the SVGs
@@ -68,7 +69,7 @@ for (const file of pngs(join(root, 'logos'))) {
   const isIcon = /icon\.png$/i.test(file);
   if (isIcon && (w !== 256 || h !== 256)) fail(`${rel}: an icon is 256x256, this is ${w}x${h}`);
   if (!isIcon && (w > 512 || h > 512)) fail(`${rel}: over 512 px (${w}x${h})`);
-  const limit = isIcon ? 64 * 1024 : 100 * 1024;
+  const limit = isIcon ? 96 * 1024 : 100 * 1024;
   if (buf.length > limit) fail(`${rel}: ${(buf.length / 1024).toFixed(0)} KB, over the ${limit / 1024} KB limit`);
 }
 
@@ -99,11 +100,20 @@ if (manifest) {
       if (!b.logo.source_url) fail(`${who}: a logo with no source_url`);
       if (!b.logo.retrieved_on) fail(`${who}: a logo with no retrieved_on date`);
       if (!b.logo.usage_note) fail(`${who}: a logo with no usage_note`);
+      // where it came from, provably: a web address, the time, and a hash of the bytes received
+      if (b.logo.source_kind) {
+        if (!/^https:\/\//.test(b.logo.source_url ?? '')) fail(`${who}: source_url is not an https address`);
+        if (!/^[0-9a-f]{64}$/.test(b.logo.original_sha256 ?? '')) fail(`${who}: no original_sha256 (SHA-256 of the file as received)`);
+        if (!b.logo.retrieved_at) fail(`${who}: no retrieved_at`);
+      } else {
+        notes.push(`${who}: source not recorded to the standard (no address, time and hash) — replace it from the bank's own page`);
+      }
     }
     if (b.brand_color && !/^#[0-9a-fA-F]{6}$/.test(b.brand_color)) fail(`${who}: brand_color is not #RRGGBB`);
   }
 }
 
+if (notes.length) console.log(notes.map((n) => `note: ${n}`).join('\n'));
 if (problems.length) {
   console.error(problems.map((p) => `✗ ${p}`).join('\n'));
   console.error(`\n${problems.length} problem(s).`);

@@ -28,9 +28,13 @@
         "icon": "affin/icon.png",
         "dark": "",
         "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "source_url": "https://www.affingroup.com/uploads/39003c9a9e1f19d265e1ca36a735183d22a69fb5/affin-bank-logo-ourstory.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:24.557Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "93598b8f5934ae7448247d6b8c1db6c4c6e6cddbf709c15c6024e1b66b63a97d",
+        "original_format": "png",
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -60,10 +64,20 @@
         "full": "agrobank/logo.png",
         "icon": "agrobank/icon.png",
         "dark": "",
-        "master": "agrobank/master.svg",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "master": "",
+        "source_url": "https://www.agrobank.com.my/wp-content/themes/agrobank_branch_enhance/library/img/mainlogo.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:24.698Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "8ca4828f4235e4affd8370a28cdc093a0ac4b1ddcdb4774a92ef3721c8ea1654",
+        "original_format": "png",
+        "icon_crop": [
+          0,
+          0,
+          0.28,
+          0.85
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -92,10 +106,20 @@
         "full": "alliance/logo.png",
         "icon": "alliance/icon.png",
         "dark": "",
-        "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "master": "alliance/master.svg",
+        "source_url": "https://www.allianceonline.com.my/personal/images/ib/abmb1.svg",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:24.769Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "204ab2fd133895c8a76926fe43c5f364c1e2da3deda3c6785f808aa523e0be2d",
+        "original_format": "svg",
+        "icon_crop": [
+          0,
+          0,
+          0.18,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -125,10 +149,20 @@
         "full": "ambank/logo.png",
         "icon": "ambank/icon.png",
         "dark": "",
-        "master": "ambank/master.svg",
-        "source_url": "https://www.ambank.com.my/assets/images/logo/main.svg",
+        "master": "",
+        "source_url": "https://www.ambank.com.my/images/ambankretaillibraries/logo/ambank.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:24.909Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Taken from the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "cc4ade63af11bcd5f86d074fabac02848ca1fb90d5cea06ff6add06bdd9630f7",
+        "original_format": "png",
+        "icon_crop": [
+          0,
+          0,
+          0.21,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -158,9 +192,19 @@
         "icon": "bimb/icon.png",
         "dark": "",
         "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "source_url": "https://bimb.com/wp-content/uploads/2024/04/BIMB-Logo-Main.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:25.104Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "b0827c7008663917d4866c5bb611eaf9893d65d12e0e94454f1ecc10a12ae675",
+        "original_format": "png",
+        "icon_crop": [
+          0,
+          0,
+          0.27,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -191,9 +235,19 @@
         "icon": "boc/icon.png",
         "dark": "",
         "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "source_url": "https://www.bankofchina.com.my/etc/designs/boc_southeastasia_web/images/logo.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:25.142Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "45b4f02a9b87b04b6d3d9f6a879ef3d0cd40fc3a91c532b3846ca1c5d5821ae2",
+        "original_format": "png",
+        "icon_crop": [
+          0,
+          0,
+          0.3,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -218,13 +272,17 @@
       "replaced_by": "",
       "since": "",
       "logo": {
-        "full": "",
-        "icon": "",
-        "dark": "cimb/logo-dark.png",
-        "master": "cimb/master.svg",
-        "source_url": "https://www.cimb.com.my/content/dam/cimb/personal/images/global/CIMB-logo-footer-without-background.svg",
+        "full": "cimb/logo.png",
+        "icon": "cimb/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "https://www.cimb.com.my/content/dam/cimb/personal/images/global/CIMB_logo.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:24.488Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Taken from the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "7f4185270c99709fa24811933a9440bd5c41cdc90bcc969bb7beafc5f1816445",
+        "original_format": "png",
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -258,10 +316,14 @@
         "full": "citi/logo.png",
         "icon": "citi/icon.png",
         "dark": "",
-        "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "master": "citi/master.svg",
+        "source_url": "https://www.citigroup.com/",
+        "source_kind": "supplied-from-page",
+        "retrieved_at": "2026-10-07T08:02:25.371Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "d59510191316c0c2ed8f7965fec5d5beea45627fe7d26fd1445892c8a290a581",
+        "original_format": "svg",
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -295,10 +357,14 @@
         "full": "deutsche/logo.png",
         "icon": "deutsche/icon.png",
         "dark": "",
-        "master": "deutsche/master.svg",
-        "source_url": "https://country.db.com/malaysia/project/images/logo/deutsche-bank-malaysia.svg",
+        "master": "",
+        "source_url": "https://www.db.com/",
+        "source_kind": "supplied-from-page",
+        "retrieved_at": "2026-10-07T08:02:26.763Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Taken from the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "a5d55511d9cb0886e7cc761823042ca63a0c28a3cc4ec6fa35331a6ee8eaad0e",
+        "original_format": "png",
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -329,9 +395,19 @@
         "icon": "hlb/icon.png",
         "dark": "",
         "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "source_url": "https://www.hlb.com.my/content/dam/global/icons/logo-hong-leong-desktop.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:25.371Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "6d0d7c4f907ac7d4da077d9e18d0c2d75876944f8423ee754811f93528a8dbb1",
+        "original_format": "png",
+        "icon_crop": [
+          0,
+          0,
+          0.17,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -364,8 +440,18 @@
         "dark": "",
         "master": "hsbc/master.svg",
         "source_url": "https://www.hsbc.com.my/content/dam/hsbc/my/images/logos/hsbc-logo.svg",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:25.443Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Taken from the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "392961169ed068757ca4ccfba64f9a1e5cfd0e5c2467039ec5f0315afcb4de50",
+        "original_format": "svg",
+        "icon_crop": [
+          0,
+          0,
+          0.52,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -396,9 +482,19 @@
         "icon": "kfh/icon.png",
         "dark": "",
         "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "source_url": "https://www.kfh.com.my/dam/jcr:55529bc9-2ad5-4959-8595-d833303b8b88/kfhm-logo.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:25.632Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "083a51fe683b4312da033d197568fa5138273218916c6452e4acc1b8e34f511d",
+        "original_format": "png",
+        "icon_crop": [
+          0.76,
+          0,
+          1,
+          0.9
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -429,10 +525,20 @@
         "full": "maybank/logo.png",
         "icon": "maybank/icon.png",
         "dark": "",
-        "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "master": "maybank/master.svg",
+        "source_url": "https://www.maybank.com/iwov-resources/images/icons/maybank_logo.svg",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:25.830Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "4090f1abff728f231e3937133a20d5ab4490a4fa38c68b677c4f4c910480a334",
+        "original_format": "svg",
+        "icon_crop": [
+          0,
+          0,
+          0.21,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -494,9 +600,19 @@
         "icon": "ocbc/icon.png",
         "dark": "",
         "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "source_url": "https://www.ocbc.com.my/iwov-resources/sg/ocbc/gbc/img/logo_ocbc.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:25.934Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "85c2285a743ea40fc9a796fbd5c39348e555ff990f75a6874dc8247f720bfd73",
+        "original_format": "png",
+        "icon_crop": [
+          0,
+          0,
+          0.28,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -527,9 +643,25 @@
         "icon": "pbb/icon.png",
         "dark": "",
         "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "source_url": "https://www.pbebank.com/media/vxfbkfv0/pbb-60th-anniversary.svg",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:26.035Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "ebc6eae1823d3224f8460921df330799304908b960a25b94b9d6b2df4b1fd204",
+        "original_format": "svg",
+        "crop": [
+          0,
+          0,
+          0.58,
+          1
+        ],
+        "icon_crop": [
+          0.36,
+          0,
+          0.64,
+          0.62
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -560,9 +692,19 @@
         "icon": "rakyat/icon.png",
         "dark": "",
         "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "source_url": "https://www.bankrakyat.com.my/assets/img/bankrakyat/logo-br-English.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:26.167Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "a68007ee0df60b17cf15a5d26138854bfc90dd61ec5b535595d31a78483c3165",
+        "original_format": "png",
+        "icon_crop": [
+          0,
+          0,
+          0.24,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -590,9 +732,13 @@
         "icon": "rhb/icon.png",
         "dark": "",
         "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "source_url": "https://www.rhbgroup.com/-/media/Project/RHB/Logo/logo.png",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:26.228Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "e3697733fe9d76fec2a33eb98ae9d9c9ecebd55f45a635ce376a5bc987b3f8b5",
+        "original_format": "webp",
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -634,10 +780,20 @@
         "full": "scb/logo.png",
         "icon": "scb/icon.png",
         "dark": "",
-        "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "master": "scb/master.svg",
+        "source_url": "https://av.sc.com/assets/global/images/components/header/standard-chartered-logo.svg",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:26.508Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "75f45303a558f48d99512cc4bb53d66e76663b112802b58a29122ccf315a30d4",
+        "original_format": "svg",
+        "icon_crop": [
+          0,
+          0,
+          0.26,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     },
@@ -671,10 +827,20 @@
         "full": "uob/logo.png",
         "icon": "uob/icon.png",
         "dark": "",
-        "master": "",
-        "source_url": "supplied by the repository owner (original source not recorded)",
+        "master": "uob/master.svg",
+        "source_url": "https://www.uob.com.my/assets/web-resources/business/images/BrandAssets/UOB_Logo.svg",
+        "source_kind": "downloaded",
+        "retrieved_at": "2026-10-07T08:02:26.664Z",
         "retrieved_on": "2026-10-07",
-        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "original_sha256": "139bed79c5409437b22b737603686cebc1fd627796f09cb02208f4b2bec8da39",
+        "original_format": "svg",
+        "icon_crop": [
+          0,
+          0,
+          0.28,
+          1
+        ],
+        "usage_note": "From the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before relying on it.",
         "checked_by": ""
       }
     }

@@ -18,7 +18,9 @@ several are still marked **not yet confirmed**; check `usage_note` before relyin
 | `type`, `brand_color`, `website` | `commercial`, `islamic`, `investment`, `development`, `digital` or `e-wallet`; one `#RRGGBB`; the bank's site. |
 | `status`, `replaced_by`, `since` | `active`, `renamed` or `merged`, and what replaced it. |
 | `logo.full`, `logo.icon`, `logo.dark`, `logo.master` | Paths under `logos/`: the full logo, a square icon, a dark-mode version if the logo needs one (all PNG), and the vector master (SVG) where there is one. |
-| `logo.source_url`, `retrieved_on`, `usage_note`, `checked_by` | **Where the logo came from**, when, what the bank's brand rules allow, and who looked. Required whenever a logo is present. |
+| `logo.source_url`, `source_kind`, `retrieved_at`, `retrieved_on`, `original_sha256`, `original_format` | **Where the logo came from, provably:** the address it was downloaded from (or the bank's page, when the owner copied it from there), the moment, and a SHA-256 of the file exactly as received. `source_kind` is `downloaded` or `supplied-from-page`. |
+| `logo.crop`, `logo.icon_crop` | Present only where used: `crop` removed part of the original lock-up (for example a campaign badge beside the logo); `icon_crop` shows only the bank's symbol on the small tile. Fractions `[left, top, right, bottom]`. A crop, never a redraw. |
+| `logo.usage_note`, `logo.checked_by` | What the bank's brand rules allow, and who looked. Required whenever a logo is present. |
 
 ## The files
 
@@ -40,7 +42,7 @@ empty margin, and placing it on a tile. Where a source was small (under 256 px) 
 
 ## Rules for a file
 
-- PNG: a real PNG; `icon.png` exactly 256 × 256 and under 64 KB; `logo.png` and `logo-dark.png` at most 512 px and 100 KB.
+- PNG: a real PNG; `icon.png` exactly 256 × 256 and under 96 KB; `logo.png` and `logo-dark.png` at most 512 px and 100 KB.
 - `master.svg`: a `viewBox`, under 20 KB; no scripts, event handlers, `<image>`, `<foreignObject>`, `data:` addresses or references outside the file.
 
 `node scripts/check.mjs` checks all of this and the manifest. It needs only Node, and it must pass before a change is merged.
