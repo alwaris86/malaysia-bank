@@ -1,0 +1,682 @@
+{
+  "version": 1,
+  "banks": [
+    {
+      "short_name": "AFFIN",
+      "name": "Affin Bank Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        12
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "PHBMMYKL",
+      "name_ms": "",
+      "aliases": [
+        "Affin Bank",
+        "Affin Islamic"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.affinalways.com/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "affin/logo.png",
+        "icon": "affin/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "AGROBANK",
+      "name": "Agrobank (Bank Pertanian Malaysia Berhad)",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        16
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "AGOBMYKL",
+      "name_ms": "",
+      "aliases": [
+        "Agro Bank",
+        "Bank Pertanian"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.agrobank.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "agrobank/logo.png",
+        "icon": "agrobank/icon.png",
+        "dark": "",
+        "master": "agrobank/master.svg",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "ALLIANCE",
+      "name": "Alliance Bank Malaysia Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        15
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "MFBBMYKL",
+      "name_ms": "",
+      "aliases": [
+        "Alliance Bank"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.alliancebank.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "alliance/logo.png",
+        "icon": "alliance/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "AMBANK",
+      "name": "AmBank (M) Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        13
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "ARBKMYKL",
+      "name_ms": "",
+      "aliases": [
+        "AmBank",
+        "AmIslamic"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.ambank.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "ambank/logo.png",
+        "icon": "ambank/icon.png",
+        "dark": "",
+        "master": "ambank/master.svg",
+        "source_url": "https://www.ambank.com.my/assets/images/logo/main.svg",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Taken from the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "BIMB",
+      "name": "Bank Islam Malaysia Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        14
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "BIMBMYKL",
+      "name_ms": "",
+      "aliases": [
+        "Bank Islam"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.bankislam.com/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "bimb/logo.png",
+        "icon": "bimb/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "BOC",
+      "name": "Bank of China (Malaysia) Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        13,
+        15
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "BKCHMYKL",
+      "name_ms": "",
+      "aliases": [
+        "Bank of China"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.bankofchina.com/my/en/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "boc/logo.png",
+        "icon": "boc/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "CIMB",
+      "name": "CIMB Bank Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        10,
+        14
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "CIBBMYKL",
+      "name_ms": "",
+      "aliases": [],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.cimb.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "",
+        "icon": "",
+        "dark": "cimb/logo-dark.png",
+        "master": "cimb/master.svg",
+        "source_url": "https://www.cimb.com.my/content/dam/cimb/personal/images/global/CIMB-logo-footer-without-background.svg",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Taken from the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "CITI",
+      "name": "Citibank Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "CITIMYKL",
+      "name_ms": "",
+      "aliases": [],
+      "type": "",
+      "brand_color": "",
+      "website": "",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "citi/logo.png",
+        "icon": "citi/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "DEUTSCHE",
+      "name": "Deutsche Bank (Malaysia) Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "DEUTMYKL",
+      "name_ms": "",
+      "aliases": [],
+      "type": "",
+      "brand_color": "",
+      "website": "https://country.db.com/malaysia/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "deutsche/logo.png",
+        "icon": "deutsche/icon.png",
+        "dark": "",
+        "master": "deutsche/master.svg",
+        "source_url": "https://country.db.com/malaysia/project/images/logo/deutsche-bank-malaysia.svg",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Taken from the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "HLB",
+      "name": "Hong Leong Bank Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        11,
+        13
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "HLBBMYKL",
+      "name_ms": "",
+      "aliases": [
+        "Hong Leong"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.hlb.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "hlb/logo.png",
+        "icon": "hlb/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "HSBC",
+      "name": "HSBC Bank Malaysia Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        12,
+        13,
+        14,
+        15,
+        17
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "HBMBMYKL",
+      "name_ms": "",
+      "aliases": [],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.hsbc.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "hsbc/logo.png",
+        "icon": "hsbc/icon.png",
+        "dark": "",
+        "master": "hsbc/master.svg",
+        "source_url": "https://www.hsbc.com.my/content/dam/hsbc/my/images/logos/hsbc-logo.svg",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Taken from the bank's own website. Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "KFH",
+      "name": "Kuwait Finance House (Malaysia) Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        12
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "KFHOMYKL",
+      "name_ms": "",
+      "aliases": [
+        "Kuwait Finance House",
+        "KFH Malaysia"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "kfh/logo.png",
+        "icon": "kfh/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "MAYBANK",
+      "name": "Maybank (Malayan Banking Berhad)",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        12
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "MBBEMYKL",
+      "name_ms": "",
+      "aliases": [
+        "Malayan Banking",
+        "MBB",
+        "M2U"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.maybank.com/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "maybank/logo.png",
+        "icon": "maybank/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "MUAMALAT",
+      "name": "Bank Muamalat Malaysia Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        14
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "BMMBMYKL",
+      "name_ms": "",
+      "aliases": [
+        "Bank Muamalat"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.muamalat.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "muamalat/logo.png",
+        "icon": "muamalat/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "OCBC",
+      "name": "OCBC Bank (Malaysia) Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        10
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "OCBCMYKL",
+      "name_ms": "",
+      "aliases": [
+        "OCBC Al-Amin"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.ocbc.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "ocbc/logo.png",
+        "icon": "ocbc/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "PBB",
+      "name": "Public Bank Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        10
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "PBBEMYKL",
+      "name_ms": "",
+      "aliases": [
+        "Public Bank",
+        "PBe"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.publicbank.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "pbb/logo.png",
+        "icon": "pbb/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "RAKYAT",
+      "name": "Bank Rakyat (Bank Kerjasama Rakyat Malaysia)",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        12
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "BKRMMYK1",
+      "name_ms": "",
+      "aliases": [
+        "Bank Rakyat",
+        "Bank Kerjasama Rakyat"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.bankrakyat.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "rakyat/logo.png",
+        "icon": "rakyat/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "RHB",
+      "name": "RHB Bank Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        14
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "RHBBMYKL",
+      "name_ms": "",
+      "aliases": [],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.rhbgroup.com/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "rhb/logo.png",
+        "icon": "rhb/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "SCB",
+      "name": "Standard Chartered Bank Malaysia Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "SCBLMYKX",
+      "name_ms": "",
+      "aliases": [
+        "Standard Chartered",
+        "SCB Malaysia"
+      ],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.sc.com/my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "scb/logo.png",
+        "icon": "scb/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    },
+    {
+      "short_name": "UOB",
+      "name": "United Overseas Bank (Malaysia) Berhad",
+      "swift_code": null,
+      "country": "MY",
+      "scope": "MY",
+      "account_lengths": [
+        7,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        17
+      ],
+      "active_in_app": true,
+      "swift_suggested_unverified": "UOVBMYKL",
+      "name_ms": "",
+      "aliases": [],
+      "type": "",
+      "brand_color": "",
+      "website": "https://www.uob.com.my/",
+      "status": "active",
+      "replaced_by": "",
+      "since": "",
+      "logo": {
+        "full": "uob/logo.png",
+        "icon": "uob/icon.png",
+        "dark": "",
+        "master": "",
+        "source_url": "supplied by the repository owner (original source not recorded)",
+        "retrieved_on": "2026-10-07",
+        "usage_note": "Permission under the bank's brand guidelines has NOT been confirmed: review before this repository is made public.",
+        "checked_by": ""
+      }
+    }
+  ]
+}
